@@ -1,3 +1,14 @@
+# Important
+This current github repository is a copy of the actual project which is currently stored on sourceforge.org:
+https://sourceforge.net/projects/gretl/
+
+Currently this github repo is only a dummy for experimenting with the workflow of github.com.
+
+If you want participate with the gretl project, please fork the repo stored at sourceforge.com.
+
+----
+
+
 Gretl (GNU regression, econometrics and time-series library) comprises
 libgretl, a shared library which provides various functions relating to
 econometric estimation, a command-line client program and a gui client,
